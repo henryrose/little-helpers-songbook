@@ -8,3 +8,7 @@ module.exports = {
   },
   plugins: [],
 }
+
+module.exports = {
+  pathPrefix: "/little-helpers-songbook",
+}

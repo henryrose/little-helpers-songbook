@@ -1,4 +1,5 @@
 import * as React from "react"
+import YAMLbuildtime from "./song-list"
 
 const pageStyles = {
   color: "#232129",
@@ -129,7 +130,9 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
         Little Helpers Songbook
       </h1>
-      
+
+      <YAMLbuildtime />
+    
       
       
     </main>
