@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklittle_helpers_songbook=self.webpackChunklittle_helpers_songbook||[]).push([[678],{6558:function(e,t,o){o.r(t),o.d(t,{Head:function(){return a}});var l=o(7294);const n={color:"#232129",padding:96,fontFamily:"-apple-system, Roboto, sans-serif, serif"},s={marginTop:0,marginBottom:64,maxWidth:320};t.default=()=>l.createElement("main",{style:n},l.createElement("h1",{style:s},"Little Helpers Songbook"));const a=()=>l.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-js-2b60b24cd85bf301fd23.js.map
